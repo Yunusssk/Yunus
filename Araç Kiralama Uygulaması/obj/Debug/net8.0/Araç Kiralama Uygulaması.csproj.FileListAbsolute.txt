@@ -1,0 +1,14 @@
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\bin\Debug\net8.0\Araç Kiralama Uygulaması.exe
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\bin\Debug\net8.0\Araç Kiralama Uygulaması.deps.json
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\bin\Debug\net8.0\Araç Kiralama Uygulaması.runtimeconfig.json
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\bin\Debug\net8.0\Araç Kiralama Uygulaması.dll
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\bin\Debug\net8.0\Araç Kiralama Uygulaması.pdb
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\obj\Debug\net8.0\Araç Kiralama Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\obj\Debug\net8.0\Araç Kiralama Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\obj\Debug\net8.0\Araç Kiralama Uygulaması.AssemblyInfo.cs
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\obj\Debug\net8.0\Araç Kiralama Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\obj\Debug\net8.0\Araç Kiralama Uygulaması.dll
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\obj\Debug\net8.0\refint\Araç Kiralama Uygulaması.dll
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\obj\Debug\net8.0\Araç Kiralama Uygulaması.pdb
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\obj\Debug\net8.0\Araç Kiralama Uygulaması.genruntimeconfig.cache
+C:\Users\Casper\source\repos\Araç Kiralama Uygulaması\Araç Kiralama Uygulaması\obj\Debug\net8.0\ref\Araç Kiralama Uygulaması.dll
